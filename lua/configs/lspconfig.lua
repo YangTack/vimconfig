@@ -56,7 +56,7 @@ lspconfig["pyright"].setup {
     python = {
       -- pythonPath = '/usr/local/bin/python3.11',
       analysis = {
-        typeCheckingMode = "on",
+        typeCheckingMode = "basic",
       },
     },
   },
